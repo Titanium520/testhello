@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<title>:: MomentChain ::</title>
+	<meta name="description" content="Welcome to Moment Blockchain explorer">
+	<meta name="author" content="JDoche">
+	
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<!-- Google Font Code -->
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&amp;subset=latin-ext" rel="stylesheet">
+	
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="/styles/style.css">
+	
+	<script src="/scripts/modernizr.custom.js"></script>
+	<!--[if gte IE 9]><style type="text/css">.gradient {filter: none; }</style><![endif]-->
+	
+	<!-- Favicon and Apple Icons -->
+	<link rel="shortcut icon" href="/images/icons/favicon.ico">
+	<link rel="apple-touch-icon" href="/images/icons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/icons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/icons/apple-icon-114x114.png">
+</head>
+
+<body>
+	<header>
+		<img id="h-logo" src="/images/logo.png" alt="" width="500"/>
+	</header>
+	Test
+	<h1>Hello #(greeting)</h1>
+</body>
+</html>
